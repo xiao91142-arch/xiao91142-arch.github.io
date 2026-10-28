@@ -229,16 +229,16 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+# _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
