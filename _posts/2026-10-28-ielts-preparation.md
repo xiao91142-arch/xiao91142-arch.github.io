@@ -143,8 +143,8 @@ author_profile: true
 
 <p><strong>纸质版：</strong>剑桥雅思官方真题集。建议直接买新东方真题剑4-20（正版买价格稍贵；若备考时间有限，也可优先购买最贴近最新考情的剑16-20进行精刷）。</p>
 <figure>
-  <a href="/images/ielts-01-cambridge-books.png" target="_blank" rel="noopener noreferrer" aria-label="查看原图：剑桥雅思官方真题集购买页面">
-    <img src="/images/ielts-01-cambridge-books.png" alt="剑桥雅思官方真题集购买页面" loading="lazy" decoding="async">
+  <a href="/images/ielts-01-cambridge-books.jpg" target="_blank" rel="noopener noreferrer" aria-label="查看原图：剑桥雅思官方真题集购买页面">
+    <img src="/images/ielts-01-cambridge-books.jpg" alt="剑桥雅思官方真题集购买页面" loading="lazy" decoding="async">
   </a>
 </figure>
 
@@ -272,13 +272,13 @@ author_profile: true
 
 <div class="ielts-images">
 <figure>
-  <a href="/images/ielts-15-wechat-account.png" target="_blank" rel="noopener noreferrer" aria-label="查看原图：雅思相关微信公众号主页">
-    <img src="/images/ielts-15-wechat-account.png" alt="雅思相关微信公众号主页" loading="lazy" decoding="async">
+  <a href="/images/ielts-15-wechat-account.jpg" target="_blank" rel="noopener noreferrer" aria-label="查看原图：雅思相关微信公众号主页">
+    <img src="/images/ielts-15-wechat-account.jpg" alt="雅思相关微信公众号主页" loading="lazy" decoding="async">
   </a>
 </figure>
 <figure>
-  <a href="/images/ielts-16-wechat-articles.png" target="_blank" rel="noopener noreferrer" aria-label="查看原图：微信公众号文章列表">
-    <img src="/images/ielts-16-wechat-articles.png" alt="微信公众号文章列表" loading="lazy" decoding="async">
+  <a href="/images/ielts-16-wechat-articles.jpg" target="_blank" rel="noopener noreferrer" aria-label="查看原图：微信公众号文章列表">
+    <img src="/images/ielts-16-wechat-articles.jpg" alt="微信公众号文章列表" loading="lazy" decoding="async">
   </a>
 </figure>
 </div>
@@ -314,8 +314,8 @@ author_profile: true
 <p>非常推荐选购这本单词书。每天早上坚持新背两面单词，复习前两面单词，大概用时30-40min。</p>
 
 <figure>
-  <a href="/images/ielts-20-vocabulary-book.png" target="_blank" rel="noopener noreferrer" aria-label="查看原图：雅思词汇真经购买页面">
-    <img src="/images/ielts-20-vocabulary-book.png" alt="雅思词汇真经购买页面" loading="lazy" decoding="async">
+  <a href="/images/ielts-20-vocabulary-book.jpg" target="_blank" rel="noopener noreferrer" aria-label="查看原图：雅思词汇真经购买页面">
+    <img src="/images/ielts-20-vocabulary-book.jpg" alt="雅思词汇真经购买页面" loading="lazy" decoding="async">
   </a>
 </figure>
 
