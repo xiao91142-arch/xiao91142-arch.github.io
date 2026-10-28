@@ -23,6 +23,14 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
+            <li>
+        <a href="{{ '/files/cv.pdf' | relative_url }}"
+           target="_blank"
+           rel="noopener noreferrer">
+          <i class="fas fa-fw fa-file-pdf icon-pad-right"
+             aria-hidden="true"></i>CV (PDF)
+        </a>
+      </li>
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
