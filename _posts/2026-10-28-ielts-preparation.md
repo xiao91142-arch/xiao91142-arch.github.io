@@ -113,21 +113,28 @@ author_profile: true
 
 <div id="ielts-post">
 <p class="ielts-date">写于2026.3.9，修改发布于2026.10.28</p>
+
+
 <details class="ielts-toc">
   <summary>目录</summary>
   <nav aria-label="文章目录">
     <ul>
-      <li><a href="#ielts-practice">真题：</a></li>
-      <li><a href="#ielts-listening">听力音频：</a></li>
+      <li><a href="#introduction">导言</a></li>      
+      <li><a href="#ielts-practice">真题</a></li>
+      <li><a href="#ielts-listening">听力音频</a></li>
       <li><a href="#ielts-writing">写作</a></li>
       <li><a href="#ielts-speaking">口语</a></li>
       <li><a href="#ielts-information">雅思资讯</a></li>
       <li><a href="#ielts-planning">备考日程规划&amp;学习追踪</a></li>
       <li><a href="#ielts-vocabulary">单词背诵</a></li>
+      <li><a href="#summary">写在最后</a></li>
     </ul>
   </nav>
 </details>
 
+
+<h2 id="introduction">导言</h2>
+  
 <p>雅思分为四个部分：听力、阅读、写作、口语。每项总分9分，最后的分数是小分之和除以四（平均分尾数逢0.25进位至0.5分，逢0.75进位至下一整分，例如平均分6.25即总分6.5，平均分6.75即总分7.0）。自2026年9月1日起，大陆考区已无纸笔考场次，四项都是机考（考后3-5天即可出分，且支持单科重考）。</p>
 
 <h2 id="ielts-practice">真题</h2>
@@ -312,7 +319,7 @@ author_profile: true
   </a>
 </figure>
 
-</div>
-
 <h2 id="summary">写在最后</h2>
 <p>祝大家都能考出高分！</p>
+
+</div>
