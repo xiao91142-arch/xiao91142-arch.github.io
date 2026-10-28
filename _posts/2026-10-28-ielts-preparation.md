@@ -3,7 +3,7 @@ title: "雅思备考资源&经验分享"
 layout: single
 date: 2026-10-28
 permalink: /posts/ielts-preparation/
-excerpt: "写于2026.3.9，修改发布于2026.10.28"
+excerpt: "如何在大一开学一个月拿下雅思7分"
 author_profile: true
 ---
 <style>
@@ -130,7 +130,7 @@ author_profile: true
 
 <p>雅思分为四个部分：听力、阅读、写作、口语。每项总分9分，最后的分数是小分之和除以四（平均分尾数逢0.25进位至0.5分，逢0.75进位至下一整分，例如平均分6.25即总分6.5，平均分6.75即总分7.0）。自2026年9月1日起，大陆考区已无纸笔考场次，四项都是机考（考后3-5天即可出分，且支持单科重考）。</p>
 
-<h2 id="ielts-practice">真题：</h2>
+<h2 id="ielts-practice">真题</h2>
 
 <p>建议先做纸质版，做上5套以上切换成电子考试，毕竟应试教育这么多年都是笔试。注意：机考听力结束后只有2分钟检查时间，切换到电子版后要注意练习边听边打字输入答案</p>
 
@@ -141,7 +141,7 @@ author_profile: true
   </a>
 </figure>
 
-<p><strong>电子版：</strong>雅思真题免费在线测试及答案网站。该网站具有历年真题。可在该网站上做听力、阅读部分（练习用鼠标高亮Highlight标记重点）。口语部分不建议在该网站上做，效果不稳定。写作部分可在该网站上限时训练（机考自带字数统计，支持复制粘贴调整段落），但该网站无法批改作文，需要移步到其他小程序中。</p>
+<p><strong>电子版</strong>雅思真题免费在线测试及答案网站。该网站具有历年真题。可在该网站上做听力、阅读部分（练习用鼠标高亮Highlight标记重点）。口语部分不建议在该网站上做，效果不稳定。写作部分可在该网站上限时训练（机考自带字数统计，支持复制粘贴调整段落），但该网站无法批改作文，需要移步到其他小程序中。</p>
 
 <p><a href="https://ieltsonlinetests.com/zh-hans/ielts-exam-library?tab&amp;search&amp;sort" target="_blank" rel="noopener noreferrer">雅思真题免费在线测试及答案-雅思考试真题-雅思答案-雅思在线 | IELTS Online Tests</a></p>
 
@@ -313,3 +313,6 @@ author_profile: true
 </figure>
 
 </div>
+
+<h2 id="summary">写在最后</h2>
+<p>祝大家都能考出高分！</p>
